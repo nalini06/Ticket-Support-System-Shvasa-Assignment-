@@ -1,4 +1,4 @@
-const apiUrl = 'https://ticket-support-system-vd82.onrender.com'; // Update with your API endpoint
+const apiUrl = 'https://ticket-support-system-vd82.onrender.com/api'; // Update with your API endpoint
 
 const api = {
   createSupportAgent: async (agentData) => {

@@ -18,7 +18,7 @@ Using this web application, user can create tickets, create support agents. Each
 ##Setup
 This project is deployed at vercel 
 ```
-https://tic-tac-toe-client-1fru.onrender.com
+https://ticket-support-system-shvasa-assignment.vercel.app/
 ```
 
 To set this up and run in localhost, clone this repo, download all dependencies.
